@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Android3</string>
+    <string name="title1">白熊</string>
+    <string name="title2">棕熊</string>
+    <string name="title3">粉熊</string>
+    <string name="title4">褐熊</string>
+    <string name="title5">黑熊</string>
+    <string name="title6">黄熊</string>
+    <string name="title7">灰熊</string>
+    <string name="title8">橙熊</string>
+    <string name="title9">花熊</string>
+    <string name="title10">狗熊</string>
+    <string name="love">猜你喜欢</string>
+    <string name="name1">张大仙</string>
+    <string name="popularity">4.5万</string>
+    <string name="title11">马超厨N神下饭</string>
+    <string name="hero_name1">赵云</string>
+    <string name="name2">小矛神</string>
+    <string name="popularity2">3.5万</string>
+    <string name="title12">巅峰赛前50</string>
+    <string name="hero_name2">关羽</string>
+    <string name="name3">虎牙迦音居居</string>
+    <string name="name4">不求人</string>
+    <string name="popularity3">4.7万</string>
+    <string name="popularity4">7.5万</string>
+    <string name="hero_name3">马超</string>
+    <string name="hero_name4" >海岛</string>
+    <string name="title13">巅峰赛前10</string>
+    <string name="title14">巅峰赛前20</string>
+</resources>
